@@ -1,7 +1,7 @@
 //Global Arrays
 let array1 = ['Bad', 'Terrible', 'Mean', 'Good', 'Great', 'Excellent'];
 let array2 = ['Dirty', 'Smelly', 'Ugly', 'Beatuiful', 'Attractive', 'Kind'];
-let array3 = ['Idiot', 'Dumby', 'Butthead', 'Gentleman', 'King', 'Hero'];
+let array3 = ['Idiot', 'Dumby', 'Joker', 'Gentleman', 'King', 'Hero'];
 
 //Randomizer function
 const random1 = (arr) => {
