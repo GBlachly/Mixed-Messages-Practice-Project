@@ -1,7 +1,7 @@
 //Global Arrays
 let messageObj = {
     array1: ['Bad', 'Terrible', 'Mean', 'Good', 'Great', 'Excellent'],
-    array2: ['Dirty', 'Smelly', 'Ugly', 'Beatuiful', 'Attractive', 'Kind'],
+    array2: ['Dirty', 'Smelly', 'Ugly', 'Beautiful', 'Attractive', 'Kind'],
     array3: ['Idiot', 'Dumby', 'Joker', 'Queen', 'King', 'Hero']
 }
 
