@@ -22,6 +22,6 @@ const mixedMessages = () => {
     } else {console.log(`You are a ${a.toLowerCase()} ${b.toLowerCase()} ${c.toLowerCase()}!`)};
 };
 
-//Fucntion test
+//Function test 
 mixedMessages();
 
